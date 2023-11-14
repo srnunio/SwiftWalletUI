@@ -1,0 +1,80 @@
+[
+    {
+        "service": "Amazon",
+        "description": "Groceries",
+        "amount": 8.93,
+        "reference": "Amazon, #28374A",
+        "status": "accepted",
+    },
+    {
+        "service": "UBER",
+        "description": "Transport",
+        "amount": 12.93,
+        "reference": "UBER, #3923FS",
+        "status": "rejected",
+    },
+    {
+        "service": "Dribbble",
+        "description": "PRO Account",
+        "amount": 11.99,
+        "reference": "Dribbble",
+        "status": "accepted",
+    },
+    {
+        "service": "Dropbox",
+        "description": "Software",
+        "amount": 9.99,
+        "reference": "Dropbox",
+        "status": "rejected",
+    },
+    {
+        "service": "Netflix",
+        "description": "Entertainment",
+        "amount": 11.99,
+        "reference": "Netflix",
+        "status": "accepted",
+    },
+    {
+        "service": "Spotify",
+        "description": "Music",
+        "amount": 4.99,
+        "reference": "Spotify",
+        "status": "pending",
+    },
+    {
+        "service": "Disney",
+        "description": "Entertainment",
+        "amount": 8.11,
+        "reference": "Disney",
+        "status": "accepted",
+    },
+    {
+        "service": "Apple",
+        "description": "Storage",
+        "amount": 2.44,
+        "reference": "Apple",
+        "status": "pending",
+    },
+    
+    {
+        "service": "MyUS",
+        "description": "Groceries",
+        "amount": 1450.10,
+        "reference": "MyUS",
+        "status": "accepted",
+    },
+    {
+        "service": "Soundcloud",
+        "description": "Music",
+        "amount": 17.04,
+        "reference": "Soundcloud",
+        "status": "rejected",
+    },
+    {
+        "service": "Backmarket",
+        "description": "Groceries",
+        "amount": 889.19,
+        "reference": "backmarket",
+        "status": "accepted",
+    }
+]

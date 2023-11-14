@@ -1,0 +1,23 @@
+[
+    {
+        "balance": 858.12,
+        "cardNumber": "8909 1001 2000 1111",
+        "cardHolderName": "Edvaldo Martins",
+        "logo": "mc_logo",
+        "color": "cardColor1",
+    },
+    {
+        "balance": 15.41,
+        "cardNumber": "1010 1435 9029 3131",
+        "cardHolderName": "Edvaldo Martins",
+        "logo": "mc_logo",
+        "color": "cardColor3",
+    },
+    {
+        "balance": 101.03,
+        "cardNumber": "4001 0023 0021 1010",
+        "cardHolderName": "Edvaldo Martins",
+        "logo": "mc_logo",
+        "color": "cardColor2",
+    }
+]
